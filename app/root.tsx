@@ -1,5 +1,5 @@
 import {
-  Links,
+  Links, LinksFunction,
   LiveReload,
   Meta,
   Outlet,
@@ -8,8 +8,19 @@ import {
 } from "remix";
 import type { MetaFunction } from "remix";
 
+import bootstrapMinStylesUrl from "./css/styles.css";
+
+export const links: LinksFunction = () => {
+  return [
+    {
+      rel: "stylesheet",
+      href: bootstrapMinStylesUrl
+    },
+  ];
+};
+
 export const meta: MetaFunction = () => {
-  return { title: "New Remix App" };
+  return { title: "Corona TestZentrum" };
 };
 
 export default function App() {
