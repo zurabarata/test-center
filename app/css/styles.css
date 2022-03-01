@@ -4033,7 +4033,7 @@ textarea.form-control-lg {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
@@ -4047,7 +4047,7 @@ textarea.form-control-lg {
   display: flex;
   flex-wrap: inherit;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
 }
 .navbar-brand {
   padding-top: 0.3125rem;
@@ -5560,7 +5560,7 @@ textarea.form-control-lg {
   display: flex;
   flex-shrink: 0;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   padding: 1rem 1rem;
   border-bottom: 0.125rem solid #dee2e6;
   border-top-left-radius: 0.625rem;
@@ -6304,7 +6304,7 @@ textarea.form-control-lg {
 .offcanvas-header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   padding: 1rem 1rem;
 }
 .offcanvas-header .btn-close {
@@ -7091,7 +7091,7 @@ textarea.form-control-lg {
 }
 
 .justify-content-between {
-  justify-content: space-between !important;
+  justify-content: center !important;
 }
 
 .justify-content-around {
@@ -8112,7 +8112,7 @@ textarea.form-control-lg {
   }
 
   .justify-content-sm-between {
-    justify-content: space-between !important;
+    justify-content: center !important;
   }
 
   .justify-content-sm-around {
@@ -8763,7 +8763,7 @@ textarea.form-control-lg {
   }
 
   .justify-content-md-between {
-    justify-content: space-between !important;
+    justify-content: center !important;
   }
 
   .justify-content-md-around {
@@ -9414,7 +9414,7 @@ textarea.form-control-lg {
   }
 
   .justify-content-lg-between {
-    justify-content: space-between !important;
+    justify-content: center !important;
   }
 
   .justify-content-lg-around {
@@ -10065,7 +10065,7 @@ textarea.form-control-lg {
   }
 
   .justify-content-xl-between {
-    justify-content: space-between !important;
+    justify-content: center !important;
   }
 
   .justify-content-xl-around {
@@ -10716,7 +10716,7 @@ textarea.form-control-lg {
   }
 
   .justify-content-xxl-between {
-    justify-content: space-between !important;
+    justify-content: center !important;
   }
 
   .justify-content-xxl-around {
