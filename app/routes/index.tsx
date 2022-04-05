@@ -28,7 +28,7 @@ export default function Index() {
         <div className="container d-flex align-items-center flex-column">
             <img className="masthead-avatar mb-5" src="https://telehealthuc.com/wp-content/uploads/2020/11/covid-test-illustration.png" alt="..."/>
             </div>
-            <p className="masthead-subheading font-weight-light mb-0">Testen auch ohne <br />Terminvereinbarung möglich!<br /><br />
+            <p className="masthead-subheading font-weight-light mb-0">Ab dem 01.04.2022 <br />nur nach Terminvereinbarung!!!<br /><br />
                 Anschrift:<br /> Hotel Mühlenhof <br />Zur Obersburg 7 <br />31749 Auetal<br /><br />
                 Tel.:  +49 157 33228300<br /><br />
                 Unsere Öffnungszeiten: <br />Montag bis Sonntag von 9:00 bis 17:00 Uhr
